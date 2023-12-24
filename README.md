@@ -15,11 +15,9 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
 ## Procedure :
-
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 ## Experiment:
-
 ![image](https://github.com/kannan-nagaraju/Open-Jacson-Networks/assets/145742755/c7bb26ef-5b67-4979-8bdc-4ffec048fe02)
 ![image](https://github.com/kannan-nagaraju/Open-Jacson-Networks/assets/145742755/29ccbaf5-3226-45f8-aff6-1529941a6cbe)
 
