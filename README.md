@@ -62,7 +62,6 @@ print("----------------------------------------------------------------------")
 ```
 
 ## Output:
-
 ![image](https://github.com/kannan-nagaraju/Open-Jacson-Networks/assets/145742755/9f9294f7-a9eb-4f4c-b60d-a9a14102ab9f)
 
 ## Result:
